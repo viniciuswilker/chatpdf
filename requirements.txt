@@ -6,10 +6,9 @@ langchain-community
 groq
 langchain-groq
 google-generativeai
-langchain-google-genai 
+langchain-google-genai
 google-genai
 pypdf
 streamlit
 faiss-cpu
 sentence-transformers
-pip install sentence-transformers
