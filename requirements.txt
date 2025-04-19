@@ -12,3 +12,4 @@ pypdf
 streamlit
 faiss-cpu
 sentence-transformers
+pip install sentence-transformers
