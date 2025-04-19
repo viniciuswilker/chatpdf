@@ -11,3 +11,4 @@ google-genai
 pypdf
 streamlit
 faiss-cpu
+sentence-transformers
