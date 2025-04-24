@@ -63,6 +63,8 @@ def main():
         # Assinatura no final do sidebar
         st.markdown("---")
         st.markdown("Desenvolvido por **Vinicius Wilker**", unsafe_allow_html=True)
+        st.markdown('<a href="https://vwdeveloper.netlify.app" target="_blank">Portfólio pessoal</a>',unsafe_allow_html=True)
+
 
     chat_window()
 
